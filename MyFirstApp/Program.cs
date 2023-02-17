@@ -11,9 +11,8 @@ namespace MyFirstApp
         static void Main(string[] args)
         {
             //temp comments
-            //temp comment 2
-             //temp comment from Git
-            Console.WriteLine("Hello Serg!");
+           
+            Console.WriteLine("Hello Sergii!");
             Console.WriteLine("Hello Hello!");
         }
     }
