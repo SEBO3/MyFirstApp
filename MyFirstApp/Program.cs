@@ -12,6 +12,7 @@ namespace MyFirstApp
         {
             //temp comments
             //temp comment 2
+             //temp comment from Git
             Console.WriteLine("Hello Serg!");
             Console.WriteLine("Hello Hello!");
         }
